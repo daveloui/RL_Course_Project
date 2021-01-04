@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d904b9b5-ada4-4a76-a329-4c63ad5a77c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zp7D8ZfGZ6AzcjmViv2iVK7Cuj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="RL2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_aggregate_data_plot_LC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RL2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/remake/plot_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remake/plot_code/new_aggregate_data_plot_LC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.new_aggregate_data_plot_LC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d904b9b5-ada4-4a76-a329-4c63ad5a77c9" name="Default Changelist" comment="" />
+      <created>1585524059310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585524059310</updated>
+      <workItem from="1585524066874" duration="10520000" />
+      <workItem from="1585610136704" duration="964000" />
+      <workItem from="1585860869022" duration="1507000" />
+      <workItem from="1585946705277" duration="1617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1429" y="-63" key="#Inspections" timestamp="1585524615121">
+      <screen x="-1920" y="-257" width="1920" height="1057" />
+    </state>
+    <state x="-1429" y="-63" key="#Inspections/0.23.1280.729/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1585524615121" />
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585946793772">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729/-1920.-257.1920.1057@0.23.1280.729" timestamp="1585946793772" />
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729/1280.-257.1920.1057@0.23.1280.729" timestamp="1585860954753" />
+    <state x="149" y="26" key="SettingsEditor" timestamp="1585861104273">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="149" y="26" key="SettingsEditor/0.23.1280.729/1280.-257.1920.1057@0.23.1280.729" timestamp="1585861104273" />
+    <state x="380" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1585946707055">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="-1350" y="104" key="com.intellij.ide.util.TipDialog/0.23.1280.729/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1585524114663" />
+    <state x="380" y="272" key="com.intellij.ide.util.TipDialog/0.23.1280.729/-1920.-257.1920.1057@0.23.1280.729" timestamp="1585946707055" />
+    <state x="380" y="272" key="com.intellij.ide.util.TipDialog/0.23.1280.729/1280.-257.1920.1057@0.23.1280.729" timestamp="1585860871030" />
+  </component>
+</project>
